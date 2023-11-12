@@ -1,7 +1,7 @@
 # sap-snow
 API for integration with ServiceNow
 
-# JSON example for change document creation
+## JSON example for change document creation
 ```json
 {
   "ext_id": "CHG108823",  // change document id in ServiceNow
@@ -14,7 +14,7 @@ API for integration with ServiceNow
 }
 ```
 
-# JSON example for attachment adding
+## JSON example for attachment adding
 ```json
 {
   "ext_id": "CHG108823",                                  // change document id in ServiceNow
